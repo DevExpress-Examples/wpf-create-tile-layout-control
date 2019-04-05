@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * **[MainWindow.xaml](./CS/WpfApplication12/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfApplication12/MainWindow.xaml))**
-* [MainWindow.xaml.cs](./CS/WpfApplication12/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/WpfApplication12/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/WpfApplication12/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfApplication12/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to: Create a Tile Layout Control
 
