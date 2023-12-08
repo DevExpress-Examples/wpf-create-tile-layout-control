@@ -6,11 +6,11 @@
 
 # WPF Tiles - Create Windows-inspired Tile Layout
 
-This example uses the [WPF TileLayoutControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.LayoutControl.TileLayoutControl) to create Windows-10 inspired tile layout. The Tile Layout Control is bound to a collection of `Agent` objects.
+This example uses the [WPF TileLayoutControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.LayoutControl.TileLayoutControl) to create a Windows-10 inspired tile layout. The Tile Layout Control is bound to a collection of `Agent` objects.
 
 ![WPF Tile Layout Control, DevExpress](https://raw.githubusercontent.com/DevExpress-Examples/how-to-create-a-tile-layout-control-t201415/22.2.2%2B/i/wpf-tile-control-devexpress.png)
 
-The Tile Layout Control displays static and live tiles (`tile5`). Live tiles change their content in an infinite loop with an animation effect that follows a content change.
+The Tile Layout Control displays static and live tiles (`tile5`). Live tiles change their content in an infinite loop with an animation effect that follows a change in content.
 
 ```xaml
 <dxlc:TileLayoutControl Background="{x:Null}" Name="tileLayoutControl1">
